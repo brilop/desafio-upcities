@@ -1,7 +1,7 @@
-### Desafio Backend UpCities
+# Desafio Backend UpCities
 
 ## Passo a passo para a execução
-# A aplicação é executada em ambiente Docker com **Laravel Sail**
+### A aplicação é executada em ambiente Docker com **Laravel Sail**
 
 1. Faça instalação do Docker
 2. No **Windows**, é necessário instalar e configurar o **WSL2** junto ao Docker.
